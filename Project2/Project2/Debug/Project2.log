@@ -1,0 +1,5 @@
+﻿  Źródło.cpp
+C:\Users\lucza\source\repos\Project2\Project2\Źródło.cpp(19,12): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\lucza\source\repos\Project2\Project2\Źródło.cpp(20,12): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\lucza\source\repos\Project2\Project2\Źródło.cpp(124,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Project2.vcxproj -> C:\Users\lucza\source\repos\Project2\Debug\Project2.exe
